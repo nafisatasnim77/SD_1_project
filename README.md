@@ -16,7 +16,7 @@ Demonstrate key programming concepts—GUI development, file I/O, and data seria
 Technologies Used
 
 
-Python 3.x — Core language for scripting
+Python — Core language for scripting
 
 Tkinter — Standard GUI library included with Python
 
@@ -31,8 +31,7 @@ Clone the repository:
 
 git clone https://github.com/nafisatasnim77/SD_1_project.git
 
-cd SD_1_project
-
+cd https://github.com/nafisatasnim77/SD_1_project
 
 Run the application:
 
