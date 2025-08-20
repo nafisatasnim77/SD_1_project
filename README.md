@@ -31,7 +31,7 @@ Clone the repository:
 
 git clone https://github.com/nafisatasnim77/SD_1_project.git
 
-cd https://github.com/nafisatasnim77/SD_1_project
+cd SD_1_project
 
 
 Run the application:
