@@ -1,7 +1,28 @@
 SD_1_project – To-Do List Application
 
-A simple and user-friendly To-Do List Application built with Python (Tkinter) that helps users manage their daily tasks efficiently.
-The project supports adding, editing, deleting, and saving tasks with persistent storage using JSON files.
+The SD_1_project is a desktop-based To-Do List Application developed using Python. Its objective is to offer a clear and intuitive interface for task management, allowing users to add, update, delete, and save tasks. Data is stored in a JSON file, ensuring tasks persist even after closing the app.
+
+
+Objectives
+
+
+Provide an easy-to-use GUI for daily task tracking
+
+Ensure task data persists between sessions via JSON storage
+
+Demonstrate key programming concepts—GUI development, file I/O, and data serialization
+
+
+Technologies Used
+
+
+Python 3.x — Core language for scripting
+
+Tkinter — Standard GUI library included with Python
+
+JSON — Structured, human-readable storage format
+
+OS module — For file path operations and filesystem management
 
 
 📌 Features
@@ -18,24 +39,15 @@ The project supports adding, editing, deleting, and saving tasks with persistent
 🎨 Graphical User Interface (GUI) – Built with Tkinter for a simple and intuitive interface
 
 
-🛠️ Technologies Used
-
-
-1.Python 3.x
-
-2.Tkinter (for GUI)
-
-3.JSON (for data storage)
-
-4.OS module (for file handling)
-
-
 📂 Project Structure
 
 
 SD_1_project/
+
 ├── To_DO LIst 1.py     # Main application script
+
 ├── tasks.json          # JSON file for storing tasks
+
 ├── README.md           # Project documentation
 
 
