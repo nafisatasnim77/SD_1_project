@@ -3,7 +3,9 @@ SD_1_project – To-Do List Application
 A simple and user-friendly To-Do List Application built with Python (Tkinter) that helps users manage their daily tasks efficiently.
 The project supports adding, editing, deleting, and saving tasks with persistent storage using JSON files.
 
+
 📌 Features
+
 
 ✅ Add Tasks – Add new tasks to your to-do list
 
@@ -15,7 +17,9 @@ The project supports adding, editing, deleting, and saving tasks with persistent
 
 🎨 Graphical User Interface (GUI) – Built with Tkinter for a simple and intuitive interface
 
+
 🛠️ Technologies Used
+
 
 1.Python 3.x
 
@@ -25,14 +29,18 @@ The project supports adding, editing, deleting, and saving tasks with persistent
 
 4.OS module (for file handling)
 
+
 📂 Project Structure
+
 
 SD_1_project/
 ├── To_DO LIst 1.py     # Main application script
 ├── tasks.json          # JSON file for storing tasks
 ├── README.md           # Project documentation
 
+
 📖 Usage
+
 
 1.Launch the app using the command above.
 
@@ -46,8 +54,10 @@ SD_1_project/
    
    Save → Automatically saves tasks into tasks.json
    
+   
 
 🔮 Future Improvements
+
 
 Potential enhancements that could make the app more powerful:
 
@@ -63,7 +73,9 @@ Potential enhancements that could make the app more powerful:
 
 📱 Mobile Version – Extend the project to Android/iOS
 
+
 🎯 Application Scope
+
 
 This project is ideal for:
 
@@ -72,17 +84,22 @@ This project is ideal for:
 2. Understanding file handling with JSON
    
 3. small-scale personal task management
+   
 
 📜 License
 
+
 This project is developed for educational purposes. You may freely use or modify it for learning and non-commercial use.
 
+
 👩‍💻 Author
+
 
 Nafisa Tasnim
 
 email: nafisatasnim189@gmail.com
 
 GitHub: https://github.com/nafisatasnim77
+
 
 ✨ A simple project to organize your daily tasks efficiently!
