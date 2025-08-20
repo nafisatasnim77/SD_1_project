@@ -25,6 +25,19 @@ JSON — Structured, human-readable storage format
 OS module — For file path operations and filesystem management
 
 
+🚀 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/nafisatasnim77/SD_1_project.git
+cd SD_1_project
+
+
+Run the application:
+
+python "To_DO LIst 1.py"
+
+
 📌 Features
 
 
@@ -86,6 +99,16 @@ Potential enhancements that could make the app more powerful:
 📱 Mobile Version – Extend the project to Android/iOS
 
 
+Challenges Faced
+
+
+Managing real-time updates in the task list via Tkinter
+
+Ensuring consistency of tasks.json when adding, editing, or removing items
+
+Handling file create/read exceptions when the JSON file doesn't exist
+
+
 🎯 Application Scope
 
 
@@ -112,6 +135,5 @@ Nafisa Tasnim
 email: nafisatasnim189@gmail.com
 
 GitHub: https://github.com/nafisatasnim77
-
 
 ✨ A simple project to organize your daily tasks efficiently!
