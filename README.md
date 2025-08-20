@@ -60,7 +60,9 @@ This project is developed for educational purposes. You may freely use or modify
 👩‍💻 Author
 
 Nafisa Tasnim
+
 email: nafisatasnim189@gmail.com
-GitHub: @nafisatasnim77
+
+GitHub: https://github.com/nafisatasnim77
 
 ✨ A simple project to organize your daily tasks efficiently!
